@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E293B</color>
+    <color name="primary_variant">#0F172A</color>
+    <color name="accent">#2563EB</color>
+    <color name="accent_light">#DBEAFE</color>
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="border">#E2E8F0</color>
+    <color name="danger">#DC2626</color>
+    <color name="calc_btn_bg">#0284C7</color>
+</resources>
